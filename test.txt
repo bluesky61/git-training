@@ -2,4 +2,5 @@ test.txt -
 This file is for test. I love GIT
 
 ==
-This change is for master branch. Different from "testbranch"'s version
+- master branch : This change is for master branch. Different from "testbranch"'s version
+- testbranch branch : Changed again for branch test.
