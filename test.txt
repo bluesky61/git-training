@@ -1,2 +1,5 @@
 test.txt -
 This file is for test. I love GIT
+
+==
+Changed again for branch test.
